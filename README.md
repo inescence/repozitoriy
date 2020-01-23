@@ -1,2 +1,2 @@
-# repozitoriy
+# newcomer
 Abc
